@@ -1,0 +1,48 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.text {
+  margin-left: 230px;
+}
+.Pod {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #95a1bb;
+  margin-top: 26px;
+  width: 90%;
+  margin-bottom: 40px;
+  width: 120%;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+}
+.heading {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 34px;
+  color: #363940;
+  margin-top: 106px;
+}
+.button {
+  display: flex;
+  margin-left: 230px;
+  margin-bottom: 30px;
+}
+.input {
+  align-items: center;
+  gap: 5px;
+}
+.input input {
+  margin: 8px;
+}
+.topic {
+  padding-top: 12px;
+  padding-left: 12px;
+  padding-right: 196px;
+}
+di
